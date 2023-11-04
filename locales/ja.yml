@@ -1,0 +1,50 @@
+home:
+  categories:
+    newestTools: 最新のツール
+    favoriteTools: 'お気に入りのツール'
+    allTools: 'すべてのツール'
+  subtitle: '開発者のための便利なツール'
+  toggleMenu: 'メニューを切り替え'
+  home: ホーム
+  uiLib: 'UI ライブラリ'
+  buyMeACoffee: 'コーヒーを買って'
+  follow:
+    title: 'IT-Toolsが好きですか？'
+    p1: 'に星をつけてください'
+    githubRepository: 'IT-Tools GitHub リポジトリ'
+    p2: 'またはフォローしてください'
+    twitterAccount: 'IT-Tools Twitter アカウント'
+    thankYou: 'ありがとう！'
+  nav:
+    github: 'GitHub リポジトリ'
+    githubRepository: 'IT-Tools GitHub リポジトリ'
+    twitter: 'Twitter アカウント'
+    twitterAccount: 'IT Tools Twitter アカウント'
+    about: 'IT-Toolsについて'
+    aboutLabel: '概要'
+    darkMode: 'ダークモード'
+    lightMode: 'ライトモード'
+    mode: 'ダーク/ライトモードを切り替え'
+about:
+  h1: 'IT-Toolsについて'
+  h1p1: '❤️を込めて作られたこの素晴らしいウェブサイトは'
+  h1p2: "、開発者やIT関係者に役立つツールを集めています。便利だと思ったら、役に立ちそうな人に共有したり、ショートカットバーにブックマークしてください！"
+  h1p3: 'IT ToolsはMITライセンスの下でオープンソースであり、無料で、これからもずっと無料です。しかし、ドメイン名のホストと更新には費用がかかります。もっとツールを追加することにご支援いただけるなら、'
+  h1p4: 'スポンサーになることを検討してください'
+  h2: 技術
+  h2p1: 'IT ToolsはVue.js (Vue 3) を用いて開発され、Naive UIコンポーネントライブラリが使用されており、Vercelによってホストされ、継続的にデプロイされています。一部のツールではサードパーティのオープンソースライブラリが使用されており、リポジトリの'
+  h2p2: 'ファイルで完全なリストを見ることができます。'
+  h3: 'バグを見つけた？ ツールが足りない？'
+  h3p1: '現在ここにないが、役立つと思われるツールが必要な場合は、機能リクエストをGitHubリポジトリの'
+  h3p2: '問題セクション'
+  h3p3: 'に投稿してください。'
+  h3p4: "バグを発見したり、何かが期待通りに機能していない場合は、GitHubリポジトリの"
+  h3p5: '問題セクション'
+  h3p6: 'にバグ報告をしてください。'
+404:
+  notFound: '404 見つかりません'
+  sorry: '申し訳ありませんが、このページは存在しないようです'
+  maybe: 'キャッシュが問題を引き起こしているかもしれません。強制リフレッシュを試してみてください？'
+  backHome: 'ホームに戻る'
+toolCard:
+  new: 新

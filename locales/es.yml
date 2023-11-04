@@ -1,0 +1,65 @@
+home:
+  categories:
+    newestTools: Herramientas más nuevas
+    favoriteTools: 'Tus herramientas favoritas'
+    allTools: 'Todas las herramientas'
+  subtitle: 'Herramientas útiles para desarrolladores'
+  toggleMenu: 'Alternar menú'
+  home: Inicio
+  uiLib: 'Biblioteca UI'
+  buyMeACoffee: 'Cómprame un café'
+  follow:
+    title: '¿Te gusta IT-Tools?'
+    p1: 'Dale una estrella en'
+    githubRepository: 'repositorio de IT-Tools en GitHub'
+    p2: 'o síguenos en'
+    twitterAccount: 'cuenta de Twitter de IT-Tools'
+    thankYou: '¡Gracias!'
+  nav:
+    github: 'Repositorio en GitHub'
+    githubRepository: 'repositorio de IT-Tools en GitHub'
+    twitter: 'Cuenta de Twitter'
+    twitterAccount: 'cuenta de Twitter de IT Tools'
+    about: 'Acerca de IT-Tools'
+    aboutLabel: 'Acerca de'
+    darkMode: 'Modo oscuro'
+    lightMode: 'Modo claro'
+    mode: 'Alternar modo oscuro/claro'
+about:
+  h1: 'Acerca de IT-Tools'
+  h1p1: 'Este maravilloso sitio web, hecho con ❤ por'
+  h1p2: ", agrega herramientas útiles para desarrolladores y personas que trabajan en TI. Si lo encuentras útil, por favor compártelo con personas que creas que también lo encontrarán útil y no olvides marcarlo en tu barra de accesos directos!"
+  h1p3: 'IT Tools es de código abierto (bajo la licencia MIT) y gratuito, y siempre lo será, pero me cuesta dinero hospedarlo y renovar el nombre de dominio. Si quieres apoyar mi trabajo y animarme a añadir más herramientas, por favor considera apoyarme'
+  h1p4: 'patrocinándome'
+  h2: Tecnologías
+  h2p1: 'IT Tools está hecho en Vue.js (Vue 3) con la biblioteca de componentes Naive UI y está alojado y desplegado continuamente por Vercel. Se utilizan bibliotecas de terceros de código abierto en algunas herramientas, puedes encontrar la lista completa en el'
+  h2p2: 'archivo del repositorio.'
+  h3: '¿Encontraste un error? ¿Falta alguna herramienta?'
+  h3p1: 'Si necesitas una herramienta que actualmente no está presente aquí, y crees que puede ser útil, eres bienvenido a enviar una solicitud de funcionalidad en la'
+  h3p2: 'sección de problemas'
+  h3p3: 'en el repositorio de GitHub.'
+  h3p4: "Y si encontraste un error, o algo no funciona como se espera, por favor reporta el error en la"
+  h3p5: 'sección de problemas'
+  h3p6: 'en el repositorio de GitHub.'
+404:
+  notFound: '404 No Encontrado'
+  sorry: 'Lo siento, esta página no parece existir'
+  maybe: 'Quizás es el caché haciendo travesuras, ¿intentaste forzar la actualización?'
+  backHome: 'Volver al inicio'
+toolCard:
+  new: Nuevo
+search:
+  label: Buscar
+tools:
+  categories:
+    favorite-tools: 'Tus herramientas favoritas'
+    crypto: Cripto
+    converter: Convertidor
+    web: Web
+    images and videos: 'Imágenes y Vídeos'
+    development: Desarrollo
+    network: Red
+    math: Matemáticas
+    measurement: Medición
+    text: Texto
+    data: Datos

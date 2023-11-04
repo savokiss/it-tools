@@ -1,0 +1,65 @@
+home:
+  categories:
+    newestTools: Neueste Werkzeuge
+    favoriteTools: 'Ihre Lieblingswerkzeuge'
+    allTools: 'Alle Werkzeuge'
+  subtitle: 'Praktische Werkzeuge für Entwickler'
+  toggleMenu: 'Menü umschalten'
+  home: Startseite
+  uiLib: 'UI-Bibliothek'
+  buyMeACoffee: 'Kauf mir einen Kaffee'
+  follow:
+    title: 'Gefällt Ihnen IT-Tools?'
+    p1: 'Geben Sie uns einen Stern auf'
+    githubRepository: 'IT-Tools GitHub Repository'
+    p2: 'oder folgen Sie uns auf'
+    twitterAccount: 'IT-Tools Twitter-Konto'
+    thankYou: 'Danke !'
+  nav:
+    github: 'GitHub Repository'
+    githubRepository: 'IT-Tools GitHub Repository'
+    twitter: 'Twitter-Konto'
+    twitterAccount: 'IT-Tools Twitter-Konto'
+    about: 'Über IT-Tools'
+    aboutLabel: 'Über'
+    darkMode: 'Dunkelmodus'
+    lightMode: 'Hellmodus'
+    mode: 'Dunkel-/Hellmodus umschalten'
+about:
+  h1: 'Über IT-Tools'
+  h1p1: 'Diese wunderbare Website, mit ❤ erstellt von'
+  h1p2: ', bündelt nützliche Werkzeuge für Entwickler und Personen, die in der IT arbeiten. Wenn Sie sie nützlich finden, zögern Sie nicht, sie mit Personen zu teilen, von denen Sie denken, dass sie sie auch nützlich finden könnten, und vergessen Sie nicht, sie in Ihrer Symbolleiste zu speichern!'
+  h1p3: 'IT-Tools ist Open-Source (unter der MIT-Lizenz) und kostenlos, und wird es immer sein, aber es kostet mich Geld, es zu hosten und den Domainnamen zu erneuern. Wenn Sie meine Arbeit unterstützen und mich ermutigen möchten, mehr Werkzeuge hinzuzufügen, erwägen Sie bitte, mich zu unterstützen, indem Sie'
+  h1p4: 'mich sponsern'
+  h2: Technologien
+  h2p1: 'IT-Tools wurde mit Vue.js (Vue 3) und der Komponentenbibliothek Naive UI erstellt und wird von Vercel gehostet und kontinuierlich bereitgestellt. Drittanbieter Open-Source-Bibliotheken werden in einigen Werkzeugen verwendet, die vollständige Liste finden Sie in der'
+  h2p2: 'Datei des Repositories.'
+  h3: 'Einen Fehler gefunden? Fehlt ein Werkzeug?'
+  h3p1: 'Wenn Sie ein Werkzeug benötigen, das derzeit nicht vorhanden ist und nützlich sein könnte, können Sie gerne einen Funktionsantrag im'
+  h3p2: 'Issues-Bereich'
+  h3p3: 'im GitHub Repository einreichen.'
+  h3p4: 'Und wenn Sie einen Fehler gefunden haben oder etwas nicht wie erwartet funktioniert, bitte melden Sie einen Fehlerbericht im'
+  h3p5: 'Issues-Bereich'
+  h3p6: 'im GitHub Repository.'
+404:
+  notFound: '404 Nicht gefunden'
+  sorry: 'Entschuldigung, diese Seite scheint nicht zu existieren'
+  maybe: 'Vielleicht macht der Cache knifflige Dinge, versuchen Sie, die Seite neu zu laden?'
+  backHome: 'Zurück zur Startseite'
+toolCard:
+  new: Neu
+search:
+  label: Suche
+tools:
+  categories:
+    favorite-tools: 'Ihre Lieblingswerkzeuge'
+    crypto: Krypto
+    converter: Konverter
+    web: Web
+    images and videos: 'Bilder & Videos'
+    development: Entwicklung
+    network: Netzwerk
+    math: Mathematik
+    measurement: Messung
+    text: Text
+    data: Daten
